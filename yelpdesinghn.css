@@ -1,0 +1,557 @@
+body{
+    margin: 0;
+}
+.main-div{
+    
+    width: 100%;
+   
+}
+.logo-div{
+    float: left;
+    background-color:green;
+    height: 50px;
+    width: 79px;
+   margin-bottom: 70px;
+   position: absolute;
+    
+
+}
+.main-pic{
+   
+    /* width: 1279px; */
+}
+.main-i{
+    width: 100%;
+    display: block;
+}
+.main-pic-i{
+ top: 50px;
+ position: absolute;
+ margin-left: 40px;
+ margin-top: -15px;
+    
+}
+.input-div{
+    width: 527px;
+    height: 50px;
+    background-color: red;
+    position: absolute;
+   top: 25px;
+   margin-left: 150px;
+}
+.input-bar{
+    width: 467px;
+    height: 45px;
+   padding-left: 18px;
+   font-size: 15px;
+   color: #2d2e2f;
+   font-family: "open sans";
+}
+.search-icon{
+    height: 23px;
+}
+.select-tag{
+    position: absolute;
+    top:31px;
+    margin-left: 750px;
+    border: none;
+    outline: none;
+    padding: 10px;
+
+}
+.yelp-for{
+    height: 24px;
+    width: 30px;
+}
+.add-a{
+    height: 24px;
+    width:50px;
+}
+.button-div{
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+   color: white;
+   
+}
+.selection-tag{
+    border: none;
+    background-color: transparent;
+    position: absolute;
+    top:31px;
+    margin-left: 750px;
+    border: none;
+    outline: none;
+    padding: 10px;
+}
+.write{
+    border: none;
+    background-color: transparent;
+    position: absolute;
+    top:31px;
+    margin-left: 900px;
+    border: none;
+    outline: none;
+    padding: 10px;
+}
+.write-review{
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+   color: white;
+   
+}
+.login-button{
+    width: 80px;
+    height: 42px;
+    top:31px;
+    margin-left: 1050px;
+    position: absolute;
+    
+    border-width:2px ;
+    border-color: white;
+    background: transparent;
+}
+.login-link{
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+   color: white;
+   
+}
+.sighn-up{
+    width: 80px;
+    height: 42px;
+    top:31px;
+    margin-left: 1150px;
+    position: absolute;
+    border: none;
+    
+   
+    background: red;
+}
+.sighn-up-text{
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+   color: white;
+}
+.headding{
+    margin-left: 110px;
+    position: absolute;
+    top: 200px;
+    font-size: 48px;
+    font-weight: 700;
+    color: white;
+    font-family:"Poppins", sans-serif;
+  
+
+}
+.search-i{
+    font-size: 16px;
+    margin-top:3px;
+    color: white;
+    font-weight: 500;
+    margin-left: 5px;
+}
+.order-button{
+width: 204px;
+height: 50px;
+margin-left: 110px;
+background-color: red;
+border: none;
+top: 320px;
+position: absolute;
+}
+.order-link{
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+   color: white;
+   
+}
+.le{
+    color: white;
+    margin-left: 110px;
+    position: absolute;
+    top: 607px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.second-text{
+    margin-left: 110px;
+    position: absolute;
+    top:640px;
+    color: white;
+    font-size: 16px;
+    font-family: "times new roman";
+}
+.second-div{
+    background: rgb(255, 255, 255);
+    width: 100%;
+    height: 130px;
+}
+.second-div-p{
+   text-align: center;
+    font-family: "poppins";
+    font-size: 28px;
+    font-weight: 600;
+    margin-top: 60px;
+}
+.third-div{
+    width: 100%;
+ background: white;
+}
+.third-div-1{
+    width: 366px;
+    height: 450px;
+    background-color: white;
+    margin-left: 60px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.582);
+    outline: 1px solid transparent;
+
+}
+.third-div-2{
+    width: 366px;
+    height: 450px;
+    background: white;
+    margin-left:440px ;
+    top: 960px;
+    position: absolute;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.582);
+    outline: 1px solid transparent;
+
+}
+.third-div-3{
+    width: 366px;
+    height: 450px;
+    background: #658aaf;
+    margin-left:823px ;
+    top: 944px;
+    position: absolute;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.582);
+    outline: 1px solid transparent;
+    background: white;
+}
+.profile-pic{
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    margin-left: 17px;
+    margin-top: 17px;
+    position: absolute;
+}
+.brendi{
+    margin-left: 65px;
+    position: absolute;
+    margin-top: 28px;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: "open sans";
+    color: black;
+
+
+}
+.brendi-pic{
+    width: 366px;
+    height: 170px;
+    margin-top: 75px;
+}
+.seen-time{
+    position: absolute;
+    margin-left: 65px;
+    padding-top: 30px;
+}
+.brendi-headding{
+    font-family: "poppins";
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 15px;
+}
+.brendi-dis{
+    margin-left: 15px;
+    font-family: "poppins";
+}
+.brendi-link{
+    font-family: "open sans";
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 15px;
+    text-decoration: none;
+    color: #027A97;
+}
+.bulb{
+    position: absolute;
+    left: 30px;
+    margin-top: 25px;
+    margin-left:40px ;
+
+}
+.clap{
+    position: absolute;
+    margin-top: 25px;
+}
+.love-sympol{
+   margin-left: 90px;
+    position: absolute;
+    margin-top: 25px;
+}
+.smile{
+    margin-left: 200px;
+    position: absolute;
+    margin-top: 25px;
+
+}
+.profile-pic-2{
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    margin-left: 17px;
+    margin-top: 17px;
+    position: absolute;
+}
+.ann{
+    margin-left: 65px;
+    position: absolute;
+    margin-top: 28px;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: "open sans";
+    color: black;
+}
+.seen-time-2{
+    position: absolute;
+    margin-left: 65px;
+    padding-top: 30px;
+}
+.ann-image{
+    width: 366px;
+    height: 170px;
+    margin-top: 75px;
+}
+.ann-icon{
+    width: 30px;
+    height: 30px;
+    
+}
+
+.profile-pic-3{
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    margin-left: 17px;
+    margin-top: 17px;
+    position: absolute;
+}
+.nopa{
+    font-family: "poppins";
+    font-weight: 700;
+    font-size: 16px;
+    margin-left: 15px;
+
+}
+.nopa-p{
+    font-family: "open sans";
+    font-size: 14px;
+    margin-left: 15px;
+}
+.read-more{
+    font-family: "open sans";
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 15px;
+    text-decoration: none;
+    color: #027A97;
+}
+.bulb-1{
+    position: absolute;
+    left: 30px;
+    margin-top: 25px;
+    margin-left:-9px ;
+
+}
+.clap-1{
+    margin-left: 10px;
+    margin-top: 25px;
+    position: absolute;
+}
+.love-sympol-1{
+    margin-left: 90px;
+    position: absolute;
+    margin-top: 25px;
+}
+.smile-1{
+    margin-left: 200px;
+    position: absolute;
+    margin-top: 25px;
+}
+.brittani{
+    margin-left: 65px;
+    position: absolute;
+    margin-top: 28px;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: "open sans";
+    color: black;
+}
+.seen-time-3{
+    position: absolute;
+    margin-left: 65px;
+    padding-top: 30px;
+}
+.pic{
+    width: 366px;
+    height: 170px;
+    margin-top: 75px;
+}
+.pizza{
+    font-family: "poppins";
+    font-weight: 700;
+    font-size: 16px;
+    margin-left: 15px;   
+}
+.pizza-1{
+    font-family: "open sans";
+    font-size: 14px;
+    margin-left: 15px;
+}
+.read-more-1{
+    font-family: "open sans";
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 15px;
+    text-decoration: none;
+    color: #027A97;
+}
+.bulb-11{
+    position: absolute;
+    left: 30px;
+    margin-top: 25px;
+    margin-left:-9px ;
+
+}
+.fourth-div{
+    background: white;
+    width: 100%;
+}
+.categories{
+    text-align: center;
+    font-size: 50px;
+    font-family: "poppins";
+}
+.resturant{
+    margin-left: 36px;
+   height: 186px;
+   width: 260px;
+}
+.shopping{
+    margin-left: 60px;
+    height: 186px;
+    width: 260px;
+}
+.nightlife{
+    margin-left: 60px;
+    height: 186px;
+    width: 260px;
+}
+.activelife{
+    margin-left: 60px;
+    height: 186px;
+    width: 230px;
+   
+}
+.fifth-div{
+    background: white;
+    width: 100%;
+    margin-top: 25px;
+}
+.beuty{
+    margin-left: 36px;
+    height: 186px;
+    width: 260px;
+    background-color: white;
+}
+.auto{
+    margin-left: 60px;
+    height: 186px;
+    width: 260px;
+}
+.home{
+    margin-left: 60px;
+    height: 186px;
+    width: 260px;
+}
+.more-1{
+    margin-left: 60px;
+    height: 186px;
+    width: 230px;  
+}
+
+.fourth-div button{
+    background: white;
+  border-width: 1px;
+}
+.fifth-div button{
+    background: white;
+    border-width: 1px;
+}
+.footer-division{
+    width: 100%;
+    margin-top: 50px;
+    background-color: #F7F7F7;
+    height: 380px;
+
+    
+}
+.footer-div-1{
+    background-color:transparent;
+    height: 340px;
+    width: 155px;
+    margin-left: 50px;
+    position: absolute;
+}
+.footer-div-2{
+    background-color: transparent;
+    height: 340px;
+    width: 155px;
+    margin-left: 360px;
+    position: absolute
+    
+}
+.footer-div-3{
+    background-color: transparent;
+    height: 340px;
+    width: 155px;
+    margin-left: 685px;
+    position: absolute
+}
+.footer-div-4{
+    background-color: transparent;
+    height: 340px;
+    width: 155px;
+    margin-left: 1007px;
+    position: absolute
+}
+.about-1{
+font-family: "open sans";
+font-size: 16px;
+font-weight: 700;
+}
+.resturant-text{
+    font-family: "open sans";
+    font-size: 16px;
+    font-weight: 600;
+    /*ella div,button trrm style ithilan*/
+}
+.about-2{
+    font-family: "open sans ";
+    font-size: 14px;
+}
+.show{
+    font-family: "open sans";
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 40px;
+    color: #027A97;
+}
