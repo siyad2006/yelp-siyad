@@ -555,3 +555,54 @@ font-weight: 700;
     margin-top: 40px;
     color: #027A97;
 }
+.changed{
+    position: absolute;
+    color: white;
+    background: transparent;
+    padding: 5px;
+    top: 40px;
+    margin-left: 725px;
+    font-weight: 500;
+    border: none;
+}
+.re{
+    position: absolute;
+    color: white;
+    background: transparent;
+    padding: 5px;
+    top: 75px;
+    margin-left: 150px;
+    font-weight: 500;
+    border: none;
+}
+.re1{
+    position: absolute;
+    color: white;
+    background: transparent;
+    padding: 5px;
+    top: 75px;
+    margin-left: 250px;
+    font-weight: 500;
+    border: none;
+}
+.re2{
+    position: absolute;
+    color: white;
+    background: transparent;
+    padding: 5px;
+    top: 75px;
+    margin-left: 370px;
+    font-weight: 500;
+    border: none;
+}
+.re3{
+    position: absolute;
+    color: white;
+    background: transparent;
+    padding: 5px;
+    top: 75px;
+    margin-left: 490px;
+    font-weight: 500;
+    border: none;
+}
+
