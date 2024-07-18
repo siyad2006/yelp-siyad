@@ -574,6 +574,7 @@ font-weight: 700;
     margin-left: 150px;
     font-weight: 500;
     border: none;
+    font-size: 15px;
 }
 .re1{
     position: absolute;
@@ -584,6 +585,7 @@ font-weight: 700;
     margin-left: 250px;
     font-weight: 500;
     border: none;
+    font-size: 15px;
 }
 .re2{
     position: absolute;
@@ -591,9 +593,10 @@ font-weight: 700;
     background: transparent;
     padding: 5px;
     top: 75px;
-    margin-left: 370px;
+    margin-left: 375px;
     font-weight: 500;
     border: none;
+    font-size: 15px;
 }
 .re3{
     position: absolute;
@@ -601,8 +604,18 @@ font-weight: 700;
     background: transparent;
     padding: 5px;
     top: 75px;
-    margin-left: 490px;
+    margin-left: 496px;
     font-weight: 500;
     border: none;
+    font-size: 15px;
 }
 
+.changed:hover{
+    background: #2d2e2f9a;
+}
+.write:hover{
+    background: #2d2e2f9a;
+}
+.login-button:hover{
+    background: rgba(255, 255, 255, 0.32);
+}
